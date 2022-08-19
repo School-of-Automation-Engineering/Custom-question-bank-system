@@ -1,4 +1,4 @@
-# Weather-Recording-Automation-System
+# Custom-question-bank-system
 ## 自定义题库答题系统
 将题目及其答案输入系统即可通过web界面答题 
 一个比较有意思的小项目，方案不算复杂，设计也存在一些值得改进的地方。
@@ -9,10 +9,10 @@
 
 ## 规划
 **自定义题库答题系统结构构想:**
-<img src="img/自定义题库答题系统结构构想.png"> 
+<img src="https://school-of-automation-engineering.github.io/Custom-question-bank-system/img/自定义题库答题系统结构构想.jpg"> 
 
 **自定义题库答题系统交互图:**
-<img src="img/自定义题库答题系统交互图.png"> 
+<img src="https://school-of-automation-engineering.github.io/Custom-question-bank-system/img/自定义题库答题系统交互图.png"> 
 
 *** 
 **项目贡献者:**  
