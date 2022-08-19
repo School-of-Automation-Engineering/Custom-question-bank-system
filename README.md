@@ -1,7 +1,7 @@
 # Custom-question-bank-system
 ## 自定义题库答题系统
 将题目及其答案输入系统即可通过web界面答题 
-一个比较有意思的小项目，方案不算复杂，设计也存在一些值得改进的地方。
+一个比较有意思的小项目，方案不算复杂，设计也存在一些值得改进的地方。更多功能请进入 [LiveDemo](https://school-of-automation-engineering.github.io/Custom-question-bank-system/index.html) 使用后方可得知。  
 
 *** 
 ## 运行流程图  
