@@ -9,10 +9,10 @@
 
 ## 规划
 **自定义题库答题系统结构构想:**
-<img src="https://school-of-automation-engineering.github.io/Custom-question-bank-system/img/自定义题库答题系统结构构想.jpg"> 
+<img src="https://school-of-automation-engineering.github.io/Custom-question-bank-system/img/自定义题库答题系统结构构想.png"> 
 
 **自定义题库答题系统交互图:**
-<img src="https://school-of-automation-engineering.github.io/Custom-question-bank-system/img/自定义题库答题系统交互图.png"> 
+<img src="https://school-of-automation-engineering.github.io/Custom-question-bank-system/img/自定义题库答题系统交互图.jpg"> 
 
 *** 
 **项目贡献者:**  
