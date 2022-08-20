@@ -6,7 +6,6 @@
 *** 
 ## 运行流程图  
 
-
 ## 规划
 **自定义题库答题系统结构构想:**
 <img src="https://school-of-automation-engineering.github.io/Custom-question-bank-system/img/自定义题库答题系统结构构想.png"> 
